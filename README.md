@@ -99,10 +99,10 @@ Setup time: ~5 minutes
 
 ## 📂 Project Structure
 
-`PromptRefiner/
+PromptRefiner/
 ├── pr_template_v1.0.json # Main n8n workflow export
 ├── README.md # Project documentation
-└── assets/ # (Optional) Diagrams, screenshots`
+└── assets/ # (Optional) Diagrams, screenshots
 
 ---
 
