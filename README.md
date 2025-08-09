@@ -58,7 +58,7 @@ Setup time: ~5 minutes
 
    - **OriginalPrompts** (columns example):  
      `Original Prompt ID | Model | Original Prompt | Created Time`
-   - **RefinedPrompts** (columns example):  
+   - **ModifiedPrompts** (columns example):  
      `Modified Prompt ID | Original Prompt ID | Topic | Topic Categories | Modified Prompt | Prompt Title | Prompt Type | Model Used | Improvement Notes | Updated Time | Created Time | isProcessed`
 
 2. **Import Workflow**
@@ -99,10 +99,12 @@ Setup time: ~5 minutes
 
 ## 📂 Project Structure
 
+```
 PromptRefiner/
 ├── pr_template_v1.0.json # Main n8n workflow export
 ├── README.md # Project documentation
 └── assets/ # (Optional) Diagrams, screenshots
+```
 
 ---
 
