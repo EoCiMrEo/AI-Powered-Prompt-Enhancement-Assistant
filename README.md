@@ -4,7 +4,7 @@
 ![AI](https://img.shields.io/badge/AI-Powered-blue)
 ![Automation](https://img.shields.io/badge/Automation-Advanced-green)
 
-**Prompt Refiner** is an n8n workflow that takes a simple user prompt and transforms it into a detailed, professional-grade AI prompt.  
+**AI-Powered Prompt Enhancement Assistant** is an n8n workflow that takes a simple user prompt and transforms it into a detailed, professional-grade AI prompt.  
 It uses Google Gemini and Groq for multi-stage refinement, adds context, extracts metadata, and saves results into Google Sheets — ready for any AI-powered tool or automation.
 
 ---
