@@ -11,7 +11,7 @@ It uses Google Gemini and Groq for multi-stage refinement, adds context, extract
 
 ## 📷 Workflow Preview
 
-## ![Prompt Refiner Template](./RF_Template.png)
+## ![Prompt Refiner Template](./ai-powered-prompt-enhancement-assistant_v1.1.png)
 
 ---
 
