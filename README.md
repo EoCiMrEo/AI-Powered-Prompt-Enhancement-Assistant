@@ -101,7 +101,7 @@ Setup time: ~5 minutes
 
 ```
 PromptRefiner/
-├── pr_template_v1.0.json # Main n8n workflow export
+├── ai-powered-prompt-enhancement-assistant_v1.1.json # Main n8n workflow export
 ├── README.md # Project documentation
 └── assets/ # (Optional) Diagrams, screenshots
 ```
